@@ -1,0 +1,72 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+  text-decoration: none;
+}
+.broadway {
+        color: white;
+
+}
+
+h1 {
+  font-size: 700px
+  font-weight: bold;
+  color: white
+
+}
+
+li {
+  font-size: 18px
+  color: white;
+  list-style: none;
+  text-decoration: underline;
+  text-align: center;
+
+}
+a:link
+{
+   color: white;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: white;
+   text-decoration: underline;
+}
+a:hover
+{
+   color: white;
+   text-decoration: underline;
+}
+a:active
+{
+   color: white;
+   text-decoration: underline;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+
+}
+h4 {
+  font-size: 14px;
+  font-weight: normal;
+}
+h5 {
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.foot {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  font-size: 11px;
+}
